@@ -14,9 +14,9 @@ Project ini dilakukan untuk memberikan insight untuk developer mengenai industri
 - melakukan perhitungan dan analisis data dengan menggunakan statistika deskriptif dan inferensial
 - memvisualisasikan data dengan dashboard tableau
 
-***pengambilan data melalui website kaggle berikut : https://www.kaggle.com/datasets/thedevastator/video-game-sales-and-ratings*** <br>
+- Pengambilan data melalui website Kaggle [berikut](https://www.kaggle.com/datasets/thedevastator/video-game-sales-and-ratings)
+- Visualisasi data menggunakan Tableau Public pada website [berikut](https://public.tableau.com/app/profile/vicky.belario/viz/milestone1_17176842853450/Dashboard1?publish=yes)
 
-***visualisasi data menggunakan tableu public pada website berikut : https://public.tableau.com/app/profile/vicky.belario/viz/milestone1_17176842853450/Dashboard1?publish=yes***
 
 
 ## 2. Identifikasi Masalah
