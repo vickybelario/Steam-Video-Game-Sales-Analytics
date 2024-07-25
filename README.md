@@ -1,6 +1,5 @@
----
 # Game-Sales-Analytics
----
+
 ## 1. Introduction
 - Nama  : Vicky Belario
 - Batch : 017 HCK
@@ -17,7 +16,7 @@ Project ini dilakukan untuk memberikan insight untuk developer mengenai industri
 
 ***visualisasi data menggunakan tableu public pada website berikut : https://public.tableau.com/app/profile/vicky.belario/viz/milestone1_17176842853450/Dashboard1?publish=yes***
 
----
+
 ## 2. Identifikasi Masalah
 
 ## Latar Belakang
@@ -26,7 +25,7 @@ Industri game global terus berkembang dengan cepat, dan banyak bermunculan game 
 ## Goal
 developer game kesulitan menentukan game baru yang ingin di kembangkan yang memiliki potensi besar untuk menjadi game sukses. Tujuan saya adalah membantu developer game menentukan game yang sesuai dengan trend pasar dan standar industri game.
 
----
+
 ## Framework SMART:
 
 ### Specific
@@ -48,7 +47,7 @@ Proses ini akan diselesaikan dalam waktu 1 bulan. Dalam waktu 1 bulan, developer
 
 Saya ingin membantu developer menentukan game apa yang potensial untuk dikembangkan dengan memberikan insight terukur berdasarkan penjualan game yang telah rilis di pasar, menggunakan dataset yang mencakup penjualan global dan penjulan di beberapa rgeion. Dalam 1 bulan, saya akan menyediakan insight berisi 6 visual data dari industri game yang nantinya dapat dijadikan bahan pertimbangan bagi developer ketika membuat game baru    
 
----
+
 ## 5W + 1H
 
 ### Who
@@ -69,7 +68,7 @@ Mana yang lebih baik, penjualan di america atau europa? (statistik inferensial)
 ### How much
 berapa rata-rata, median, modus, standar deviasi, skewnes dan kurtosis pada game sales di jepang? (statistik deskriptif)
 
----
+
 ## Dataset Overview
 Dataset Penjualan dan Penilaian Video Game memberikan pandangan mendalam ke dalam dunia dinamis video game, menawarkan analisis komprehensif tentang penjualan dan penilaian di berbagai platform dan publisher. Dataset ini mencakup:
 
