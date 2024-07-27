@@ -1,6 +1,6 @@
 ![gaming_page-0001](https://github.com/user-attachments/assets/5d2086a8-61e9-4a63-951b-608252d90178)
 
-# Game-Sales-Analytics
+
 
 ## 1. Introduction
 - Nama  : Vicky Belario
