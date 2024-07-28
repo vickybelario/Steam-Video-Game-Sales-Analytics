@@ -94,7 +94,7 @@ Dalam menghadapi kompleksitas industri game yang terus berkembang, penting bagi 
 
 Melalui penggunaan dataset yang mencakup penjualan global dan penjualan di beberapa region, saya berhasil menyusun insight berupa 4 visual data industri game, termasuk top 10 game by Sales, top 10 developer by Sales, best genre by Sales, game sales by year dan melakukan perhitungan menggunakan statistik deskripitif dan statistik inferesial, maka secara otomatis telah menjawab SMART dan problem statement yang ditentukan di awal.
 
-Menjawab 5W+1H berikut:
+## Menjawab 5W+1H :
 
 Who
 Siapa developer yang memiliki penjualan terbaik?
