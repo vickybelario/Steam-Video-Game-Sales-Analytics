@@ -6,12 +6,6 @@ Nama  : Vicky Belario
 
 Project ini dilakukan untuk memberikan insight untuk developer mengenai industri game berdasarkan penjualan game sehingga dapat dijadikan pertimbangan bagi developer untuk mengembangkan game mereka
 
-## **Objective**
-- mengidentifikasi masalah menggunakan framework SMART dan 5W + 1H
-- menampilkan data dengan plotly 
-- melakukan perhitungan dan analisis data dengan menggunakan statistika deskriptif dan inferensial
-- memvisualisasikan data dengan dashboard tableau
-
 ## Identifikasi Masalah
 
 ## Latar Belakang
