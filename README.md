@@ -89,3 +89,71 @@ Dataset Penjualan dan Penilaian Video Game memberikan pandangan mendalam ke dala
 - **Developer**: Perusahaan yang mengembangkan game tersebut.
 - **Rating**: Rating ESRB dari game tersebut (misalnya, E untuk Semua Umur, T untuk Remaja).
 
+## Kesimpulan
+Dalam menghadapi kompleksitas industri game yang terus berkembang, penting bagi developer untuk dapat memilih game yang berpotensi menjadi sukses. Untuk membantu mereka dalam pengambilan keputusan dalam membuat game, proyek ini telah menyusun insight terukur berdasarkan penjualan game yang telah dirilis di pasar.
+
+Melalui penggunaan dataset yang mencakup penjualan global dan penjualan di beberapa region, saya berhasil menyusun insight berupa 4 visual data industri game, termasuk top 10 game by Sales, top 10 developer by Sales, best genre by Sales, game sales by year dan melakukan perhitungan menggunakan statistik deskripitif dan statistik inferesial, maka secara otomatis telah menjawab SMART dan problem statement yang ditentukan di awal.
+
+Menjawab 5W+1H berikut:
+
+Who
+Siapa developer yang memiliki penjualan terbaik?
+
+jawaban:
+
+setelah ditampilkan dengan visualisasi data didapatkan hasil nintendo adalah deloper dengan penjualan terbaik
+What
+Apa saja game yang mempunyai penjualan terbaik?
+
+jawaban:
+
+setelah ditampilkan dengan visualisasi data didapatkan hasil Wii Sports adalah deloper dengan penjualan terbaik
+When
+kapan penjualan game paling tinggi?
+
+jawaban:
+
+setelah ditampilkan dengan visualisasi data didapatkan hasil tahun 2008 adalah tahun penjualan game paling tinggi
+What
+genre game apa yang paling disukai?
+
+jawaban:
+
+setelah ditampilkan dengan visualisasi data didapatkan hasil genre game action adalah genre game yang paling disukai
+Which one
+Mana yang lebih baik, penjualan di america atau europa?
+
+jawaban:
+
+setelah dilakukan perhitungan dengan statistik inferensial didapatkan hasil bahwa ada cukup bukti untuk menyatakan bahwa penjualan game di america lebih tinggi dari europe.
+How much
+berapa rata-rata, median, modus, standar deviasi, skewnes dan kurtosis pada game sales di jepang?
+
+Rata-rata (mean) dari penjualan game di Jepang adalah sekitar 0.078 juta dolar.
+Median adalah 0.0 juta dolar, yang menunjukkan bahwa setengah dari data memiliki penjualan kurang dari atau sama dengan 0.0 juta dolar.
+Mode juga 0.0 juta dolar, yang menunjukkan bahwa nilai 0.0 juta dolar muncul paling sering dalam data
+Standar deviasi (std) adalah sekitar 0.309 juta dolar. Ini menunjukkan sebaran data dari rata-rata. Dengan nilai yang relatif tinggi, ini menunjukkan variasi yang cukup besar dalam penjualan game di Jepang.
+Kurtosis yang tinggi (192.187) menunjukkan ekor yang berat dalam distribusi, yang dapat menunjukkan adanya outlier atau penyebaran ekstrim dalam data.
+Skewness yang tinggi (11.118) menunjukkan bahwa distribusi data cenderung condong ke kanan (positif skewness), yang berarti sebagian besar nilai lebih rendah dari rata-rata.
+
+## Saran dan Rekomendasi
+
+Kebutuhan Data hingga 2024
+
+Tren Industri Saat Ini
+
+Untuk mendapatkan gambaran lengkap tentang tren industri game hingga saat ini, diperlukan data tambahan hingga tahun 2024. Ini penting untuk memahami bagaimana industri game berevolusi dalam dekade terakhir, terutama dengan munculnya teknologi baru seperti realitas virtual (VR), augmented reality (AR), dan game berbasis cloud.
+
+Faktor-faktor Baru
+
+COVID-19
+
+Pandemi COVID-19 mungkin telah mempengaruhi industri game dengan cara yang signifikan, meningkatkan permintaan untuk game karena lebih banyak orang menghabiskan waktu di rumah. karena data hanya sampai tahun 2016, dampak pandemi tidak tercermin dalam dataset tersebut. Data tambahan hingga 2024 akan menunjukkan peningkatan penjualan dan waktu bermain game yang mungkin terjadi akibat pandemi.
+
+Esports dan Streaming
+
+Peningkatan popularitas esports dan platform streaming seperti Twitch telah mengubah cara orang bermain dan menonton game. sehingga data terbaru akan memberikan wawasan tentang bagaimana tren ini mempengaruhi penjualan game dan perilaku pemain.
+
+Perangkat dan Teknologi Baru
+
+Perkembangan dalam perangkat keras (seperti PlayStation 5, Xbox Series X) dan teknologi (seperti ray tracing, AI) terus mendorong inovasi dalam game. Data tambahan akan membantu mengidentifikasi bagaimana inovasi ini telah mempengaruhi preferensi pemain, penjualan game, dan tren industri secara keseluruhan.
