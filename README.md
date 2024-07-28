@@ -8,10 +8,10 @@ Project ini dilakukan untuk memberikan insight untuk developer mengenai industri
 
 ## Identifikasi Masalah
 
-## Latar Belakang
+### Latar Belakang
 Industri game global terus berkembang dengan cepat, dan banyak bermunculan game baru sehingga semakin banyak game dengan variasi, genre, dan inovasi yang berbeda-beda. Banyaknya game membuat developer game mengalami kesulitan menentukan game yang tepat untuk dikembangkan ditambah dengan proses analisis game yang beredar di pasar menjadi kompleks dan memakan waktu. developer membutuhkan cara yang efektif untuk menilai dan menentukan game apa yang sesuai dan menghasilkan keuntungan. Untuk itu, diperlukan data yang komprehensif dan terukur yang dapat memberikan insight mengenai performa dan kualitas game yang telah dirilis di pasar.
 
-## Goal
+### Goal
 developer game kesulitan menentukan game baru yang ingin di kembangkan yang memiliki potensi besar untuk menjadi game sukses. Tujuan saya adalah membantu developer game menentukan game yang sesuai dengan trend pasar dan standar industri game.
 
 
