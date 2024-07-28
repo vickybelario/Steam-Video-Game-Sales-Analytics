@@ -66,9 +66,7 @@ berapa rata-rata, median, modus, standar deviasi, skewnes dan kurtosis pada game
 
 ## Dataset Overview
 
-Pengambilan data melalui website Kaggle [berikut](https://www.kaggle.com/datasets/thedevastator/video-game-sales-and-ratings)
-
-Visualisasi data menggunakan Tableau Public pada website [berikut](https://public.tableau.com/app/profile/vicky.belario/viz/milestone1_17176842853450/Dashboard1?publish=yes)
+Pengambilan data melalui website Kaggle : [Link](https://www.kaggle.com/datasets/thedevastator/video-game-sales-and-ratings)
 
 Dataset Penjualan dan Penilaian Video Game memberikan pandangan mendalam ke dalam dunia dinamis video game, menawarkan analisis komprehensif tentang penjualan dan penilaian di berbagai platform dan publisher. Dataset ini mencakup:
 
@@ -88,6 +86,8 @@ Dataset Penjualan dan Penilaian Video Game memberikan pandangan mendalam ke dala
 - **User_Count**: Jumlah pengguna yang menilai game tersebut.
 - **Developer**: Perusahaan yang mengembangkan game tersebut.
 - **Rating**: Rating ESRB dari game tersebut (misalnya, E untuk Semua Umur, T untuk Remaja).
+
+Visualisasi data menggunakan Tableau Public : [Link](https://public.tableau.com/app/profile/vicky.belario/viz/milestone1_17176842853450/Dashboard1?publish=yes)
 
 ## Kesimpulan
 Dalam menghadapi kompleksitas industri game yang terus berkembang, penting bagi developer untuk dapat memilih game yang berpotensi menjadi sukses. Untuk membantu mereka dalam pengambilan keputusan dalam membuat game, proyek ini telah menyusun insight terukur berdasarkan penjualan game yang telah dirilis di pasar.
