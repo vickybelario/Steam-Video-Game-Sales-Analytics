@@ -1,6 +1,6 @@
 ![gaming_page-0001](https://github.com/user-attachments/assets/5d2086a8-61e9-4a63-951b-608252d90178)
 
-## 1. Introduction
+## Introduction
 - Nama  : Vicky Belario
 - Batch : 017 HCK
 
@@ -12,7 +12,7 @@ Project ini dilakukan untuk memberikan insight untuk developer mengenai industri
 - melakukan perhitungan dan analisis data dengan menggunakan statistika deskriptif dan inferensial
 - memvisualisasikan data dengan dashboard tableau
 
-## 2. Identifikasi Masalah
+## Identifikasi Masalah
 
 ## Latar Belakang
 Industri game global terus berkembang dengan cepat, dan banyak bermunculan game baru sehingga semakin banyak game dengan variasi, genre, dan inovasi yang berbeda-beda. Banyaknya game membuat developer game mengalami kesulitan menentukan game yang tepat untuk dikembangkan ditambah dengan proses analisis game yang beredar di pasar menjadi kompleks dan memakan waktu. developer membutuhkan cara yang efektif untuk menilai dan menentukan game apa yang sesuai dan menghasilkan keuntungan. Untuk itu, diperlukan data yang komprehensif dan terukur yang dapat memberikan insight mengenai performa dan kualitas game yang telah dirilis di pasar.
