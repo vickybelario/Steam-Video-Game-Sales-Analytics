@@ -132,13 +132,13 @@ Skewness yang tinggi (11.118) menunjukkan bahwa distribusi data cenderung condon
 
 ## Saran dan Rekomendasi
 
-Kebutuhan Data hingga 2024
+### Kebutuhan Data hingga 2024
 
 Tren Industri Saat Ini
 
 Untuk mendapatkan gambaran lengkap tentang tren industri game hingga saat ini, diperlukan data tambahan hingga tahun 2024. Ini penting untuk memahami bagaimana industri game berevolusi dalam dekade terakhir, terutama dengan munculnya teknologi baru seperti realitas virtual (VR), augmented reality (AR), dan game berbasis cloud.
 
-Faktor-faktor Baru
+### Faktor-faktor Baru
 
 COVID-19
 
