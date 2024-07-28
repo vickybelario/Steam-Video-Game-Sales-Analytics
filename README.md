@@ -1,8 +1,8 @@
 ![gaming_page-0001](https://github.com/user-attachments/assets/5d2086a8-61e9-4a63-951b-608252d90178)
 
 ## Introduction
-- Nama  : Vicky Belario
-- Batch : 017 HCK
+
+Nama  : Vicky Belario
 
 Project ini dilakukan untuk memberikan insight untuk developer mengenai industri game berdasarkan penjualan game sehingga dapat dijadikan pertimbangan bagi developer untuk mengembangkan game mereka
 
