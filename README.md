@@ -30,11 +30,11 @@ untuk menyusun insight ditentukan berdasarkan keuntungan dari penjualan game. De
 insight game yang bagus juga dipertimbangkan berdasarkan genre dan platform game itu dirilis sesuai data dalam dataset.
 
 ### Time-Bound
-Proses ini akan diselesaikan dalam waktu 1 bulan. Dalam waktu 1 bulan, developer akan menerima dinsight game ditentukan. Tiga bulan adalah waktu yang realistis untuk mengumpulkan data, menganalisisnya, dan menghasilkan insightd dengan hasil yang tepat.
+Proses ini akan diselesaikan dalam waktu 1 bulan. Dalam waktu 1 bulan, developer akan menerima dinsight game ditentukan. 1 bulan adalah waktu yang realistis untuk mengumpulkan data, menganalisisnya, dan menghasilkan insightd dengan hasil yang tepat.
 
 ## Problem Statement
 
-Saya ingin membantu developer menentukan game apa yang potensial untuk dikembangkan dengan memberikan insight terukur berdasarkan penjualan game yang telah rilis di pasar, menggunakan dataset yang mencakup penjualan global dan penjulan di beberapa rgeion. Dalam 1 bulan, saya akan menyediakan insight berisi 6 visual data dari industri game yang nantinya dapat dijadikan bahan pertimbangan bagi developer ketika membuat game baru    
+Saya ingin membantu developer menentukan game apa yang potensial untuk dikembangkan dengan memberikan insight terukur berdasarkan penjualan game yang telah rilis di pasar, menggunakan dataset yang mencakup penjualan global dan penjulan di beberapa rgeion. Dalam 1 bulan, saya akan menyediakan insight berisi 4 visual data dari industri game yang nantinya dapat dijadikan bahan pertimbangan bagi developer ketika membuat game baru    
 
 
 ## 5W + 1H
@@ -134,20 +134,16 @@ Skewness yang tinggi (11.118) menunjukkan bahwa distribusi data cenderung condon
 
 ### Kebutuhan Data hingga 2024
 
-Tren Industri Saat Ini
-
 Untuk mendapatkan gambaran lengkap tentang tren industri game hingga saat ini, diperlukan data tambahan hingga tahun 2024. Ini penting untuk memahami bagaimana industri game berevolusi dalam dekade terakhir, terutama dengan munculnya teknologi baru seperti realitas virtual (VR), augmented reality (AR), dan game berbasis cloud.
 
-### Faktor-faktor Baru
-
-COVID-19
+### COVID-19
 
 Pandemi COVID-19 mungkin telah mempengaruhi industri game dengan cara yang signifikan, meningkatkan permintaan untuk game karena lebih banyak orang menghabiskan waktu di rumah. karena data hanya sampai tahun 2016, dampak pandemi tidak tercermin dalam dataset tersebut. Data tambahan hingga 2024 akan menunjukkan peningkatan penjualan dan waktu bermain game yang mungkin terjadi akibat pandemi.
 
-Esports dan Streaming
+### Esports dan Streaming
 
 Peningkatan popularitas esports dan platform streaming seperti Twitch telah mengubah cara orang bermain dan menonton game. sehingga data terbaru akan memberikan wawasan tentang bagaimana tren ini mempengaruhi penjualan game dan perilaku pemain.
 
-Perangkat dan Teknologi Baru
+### Perangkat dan Teknologi Baru
 
 Perkembangan dalam perangkat keras (seperti PlayStation 5, Xbox Series X) dan teknologi (seperti ray tracing, AI) terus mendorong inovasi dalam game. Data tambahan akan membantu mengidentifikasi bagaimana inovasi ini telah mempengaruhi preferensi pemain, penjualan game, dan tren industri secara keseluruhan.
