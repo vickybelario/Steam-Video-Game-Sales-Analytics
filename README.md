@@ -1,7 +1,5 @@
-![_ (1)](https://github.com/user-attachments/assets/f36b0606-1003-4722-9326-8ac81eddb7ad)
 
-
-
+![Steam Store](https://github.com/user-attachments/assets/b9f688cd-548b-4627-a0b9-51754ad91a50)
 
 ## Introduction
 
