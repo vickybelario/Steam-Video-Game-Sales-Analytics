@@ -1,10 +1,3 @@
-
-![Steam Store](https://github.com/user-attachments/assets/0e777e15-5298-46a1-a2a7-e6762a8a213b)
-
-![Disney, Amazon and Apple in line to buy EA claim rumours](https://github.com/user-attachments/assets/ea69693f-1a2c-4c75-9eae-588fd5788b92)
-
-![EA Play - Abbonamento ai videogiochi EA - Sito ufficiale EA](https://github.com/user-attachments/assets/5a6df6d7-9f8b-4c79-be11-3b381431c094)
-
 ![_ (1)](https://github.com/user-attachments/assets/f36b0606-1003-4722-9326-8ac81eddb7ad)
 
 
