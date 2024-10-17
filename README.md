@@ -1,5 +1,5 @@
 
-![Steam Store](https://github.com/user-attachments/assets/b9f688cd-548b-4627-a0b9-51754ad91a50)
+![steam-20-anos](https://github.com/user-attachments/assets/18d28027-5f92-4c34-9122-b5c433896ef2)
 
 ## Introduction
 
