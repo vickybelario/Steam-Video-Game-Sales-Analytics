@@ -15,6 +15,7 @@ Industri game global terus berkembang dengan cepat, dan banyak bermunculan game 
 ### Goal
 developer game kesulitan menentukan game baru yang ingin di kembangkan yang memiliki potensi besar untuk menjadi game sukses. Tujuan saya adalah membantu developer game menentukan game yang sesuai dengan trend pasar dan standar industri game.
 
+### [**Slide Project**](https://www.canva.com/design/DAGLtmlZ_IU/4Gz7WsdPt8n2F37cPU3mpw/edit?utm_content=DAGLtmlZ_IU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Framework SMART:
 
