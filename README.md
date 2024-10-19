@@ -7,7 +7,7 @@ Nama  : Vicky Belario
 
 Project ini dilakukan untuk memberikan insight untuk developer mengenai industri game berdasarkan penjualan game sehingga dapat dijadikan pertimbangan bagi developer untuk mengembangkan game mereka
 
-### [**Slide Project**](https://www.canva.com/design/DAGLtmlZ_IU/4Gz7WsdPt8n2F37cPU3mpw/edit?utm_content=DAGLtmlZ_IU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Slide Project bisa diakses di website Canva : [Link](https://www.canva.com/design/DAGLtmlZ_IU/4Gz7WsdPt8n2F37cPU3mpw/edit?utm_content=DAGLtmlZ_IU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  <br>
 
 ## Identifikasi Masalah
 
